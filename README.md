@@ -1,4 +1,4 @@
-好未来和Kesci举办的《TAIL CAMP——AI实战训练营 自然语言处理》
+好未来和Kesci举办的《TAIL CAMP——AI CAMP 自然语言处理》
 
 
 **Week1**
@@ -11,9 +11,9 @@
 
 **详细做法可参见Week1.ipynb**
 
-[项目报告1-队友的](https://www.kesci.com/apps/home/project/5a74405db2d655042b3bba3d)
+[项目报告1](https://www.kesci.com/apps/home/project/5a74405db2d655042b3bba3d)
 
-[我的(乱)](https://www.kesci.com/apps/home/project/5a6fefe40fd6d04e2be8febf)
+[项目报告2](https://www.kesci.com/apps/home/project/5a6fefe40fd6d04e2be8febf)
 
 **Week2**
 
